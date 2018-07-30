@@ -1,0 +1,5 @@
+Name	Score
+tam	21.5
+ani	12
+thai	1.5
+thang	0
