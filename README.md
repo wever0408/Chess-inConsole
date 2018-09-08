@@ -1,1 +1,1 @@
-# Chess-inOOP
+# Chess-inConsole
